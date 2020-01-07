@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e504ad8d-9abe-493f-9de7-33a85cec8d52" name="Default Changelist" comment="" />
+    <list default="true" id="e504ad8d-9abe-493f-9de7-33a85cec8d52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmall 学习.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578406990368</updated>
-      <workItem from="1578406991516" duration="914000" />
+      <workItem from="1578406991516" duration="1042000" />
     </task>
     <servers />
   </component>
